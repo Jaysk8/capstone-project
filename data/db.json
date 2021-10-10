@@ -1,0 +1,24 @@
+{
+   "categories": [
+       {
+           "name": "Decks",
+           "image": "https://cdn.shopify.com/s/files/1/0488/6482/1414/products/polar-deck-shin-fuji-stains_540x540.jpg?v=1631576265",
+           "id": 1
+       },
+       {
+            "name": "Tees",
+            "image": "https://cdn.shopify.com/s/files/1/0488/6482/1414/products/spitfire-tee-youth-bighead-fill-royal_540x540.jpg?v=1623900397",
+            "id": 2
+        },
+        {
+            "name": "Footwear",
+            "image": "https://cdn.shopify.com/s/files/1/0488/6482/1414/products/vans-half-cab-black-white-top_540x540.jpg?v=1604517941",
+            "id": 3
+        },
+        {
+            "name": "Wheels",
+            "image": "https://cdn.shopify.com/s/files/1/0488/6482/1414/products/spitfire-wheels-f4-og-classics-55mm99A_540x540.jpg?v=1620238164",
+            "id": 4
+        }
+   ]
+}
